@@ -4,5 +4,5 @@ Invoke-RestMethod -Uri http://localhost:8080/api/auth/local/register `
     -Body '{
         "username": "Panya1",
         "email": "Panyawut1.khr@gmail.com",
-        "password": "10082022moomin"
+        "password": "123456789gG@"
     }'
